@@ -7,7 +7,7 @@ cask "sidebrief" do
   desc "Native macOS meeting copilot with dual-stream audio capture and live AI assistance"
   homepage "https://github.com/KevinOBytes/sidebrief"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Sidebrief.app"
 
