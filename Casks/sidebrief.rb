@@ -1,6 +1,6 @@
 cask "sidebrief" do
-  version "1.0.0"
-  sha256 "09f7d13be0f767b5f97113d433dd47d3ed7e744775afe5fd3b592f7e773774ed"
+  version "1.0.1"
+  sha256 "229b0e42872f462e69e94d2043aa4144fe006ab5781ef3fb8eed0cfa96d8137a"
 
   url "https://github.com/KevinOBytes/sidebrief/releases/download/v#{version}/Sidebrief.dmg"
   name "Sidebrief"
